@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechBrawlerGame", "MechBrawlerGame\MechBrawlerGame.csproj", "{E916E8C2-9515-4083-AA32-D3607C49D8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechBrawlerMapEditor", "MechBrawlerMapEditor\MechBrawlerMapEditor.csproj", "{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechBrawlerAnimationEditor", "MechBrawlerAnimationEditor\MechBrawlerAnimationEditor.csproj", "{19B42D55-9275-4F82-A49D-ACEA111A9949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E916E8C2-9515-4083-AA32-D3607C49D8E2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E916E8C2-9515-4083-AA32-D3607C49D8E2}.Debug|x86.ActiveCfg = Debug|x86
+		{E916E8C2-9515-4083-AA32-D3607C49D8E2}.Debug|x86.Build.0 = Debug|x86
+		{E916E8C2-9515-4083-AA32-D3607C49D8E2}.Release|Any CPU.ActiveCfg = Release|x86
+		{E916E8C2-9515-4083-AA32-D3607C49D8E2}.Release|x86.ActiveCfg = Release|x86
+		{E916E8C2-9515-4083-AA32-D3607C49D8E2}.Release|x86.Build.0 = Release|x86
+		{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}.Debug|x86.Build.0 = Debug|Any CPU
+		{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}.Release|x86.ActiveCfg = Release|Any CPU
+		{095AB923-2EB9-4F6B-BB11-CD0B079A9ED5}.Release|x86.Build.0 = Release|Any CPU
+		{19B42D55-9275-4F82-A49D-ACEA111A9949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B42D55-9275-4F82-A49D-ACEA111A9949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B42D55-9275-4F82-A49D-ACEA111A9949}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{19B42D55-9275-4F82-A49D-ACEA111A9949}.Debug|x86.Build.0 = Debug|Any CPU
+		{19B42D55-9275-4F82-A49D-ACEA111A9949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B42D55-9275-4F82-A49D-ACEA111A9949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B42D55-9275-4F82-A49D-ACEA111A9949}.Release|x86.ActiveCfg = Release|Any CPU
+		{19B42D55-9275-4F82-A49D-ACEA111A9949}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
